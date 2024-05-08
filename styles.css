@@ -1,6 +1,7 @@
 h1{
-    background: yellowgreen;
+    color: yellowgreen;
+    font-style: italic;
 }
 h2{
-    background: blueviolet;
+    color: blueviolet;
 }
